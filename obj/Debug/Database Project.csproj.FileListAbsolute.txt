@@ -1,0 +1,39 @@
+E:\366 Database\Database Project\bin\Debug\Database Project.exe.config
+E:\366 Database\Database Project\bin\Debug\Database Project.exe
+E:\366 Database\Database Project\bin\Debug\Database Project.pdb
+E:\366 Database\Database Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\366 Database\Database Project\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\366 Database\Database Project\bin\Debug\Npgsql.dll
+E:\366 Database\Database Project\bin\Debug\System.Buffers.dll
+E:\366 Database\Database Project\bin\Debug\System.Collections.Immutable.dll
+E:\366 Database\Database Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\366 Database\Database Project\bin\Debug\System.Memory.dll
+E:\366 Database\Database Project\bin\Debug\System.Numerics.Vectors.dll
+E:\366 Database\Database Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\366 Database\Database Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\366 Database\Database Project\bin\Debug\System.Text.Json.dll
+E:\366 Database\Database Project\bin\Debug\System.Threading.Channels.dll
+E:\366 Database\Database Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\366 Database\Database Project\bin\Debug\System.ValueTuple.dll
+E:\366 Database\Database Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\366 Database\Database Project\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\366 Database\Database Project\bin\Debug\Npgsql.xml
+E:\366 Database\Database Project\bin\Debug\System.Buffers.xml
+E:\366 Database\Database Project\bin\Debug\System.Collections.Immutable.xml
+E:\366 Database\Database Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\366 Database\Database Project\bin\Debug\System.Memory.xml
+E:\366 Database\Database Project\bin\Debug\System.Numerics.Vectors.xml
+E:\366 Database\Database Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\366 Database\Database Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\366 Database\Database Project\bin\Debug\System.Text.Json.xml
+E:\366 Database\Database Project\bin\Debug\System.Threading.Channels.xml
+E:\366 Database\Database Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\366 Database\Database Project\bin\Debug\System.ValueTuple.xml
+E:\366 Database\Database Project\obj\Debug\Database Project.csprojAssemblyReference.cache
+E:\366 Database\Database Project\obj\Debug\Database_Project.Form1.resources
+E:\366 Database\Database Project\obj\Debug\Database_Project.Properties.Resources.resources
+E:\366 Database\Database Project\obj\Debug\Database Project.csproj.GenerateResource.cache
+E:\366 Database\Database Project\obj\Debug\Database Project.csproj.CoreCompileInputs.cache
+E:\366 Database\Database Project\obj\Debug\Database Project.csproj.CopyComplete
+E:\366 Database\Database Project\obj\Debug\Database Project.exe
+E:\366 Database\Database Project\obj\Debug\Database Project.pdb
